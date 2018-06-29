@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alfred</string>
+    <string name="add_new_task">Add New Task</string>
+</resources>
