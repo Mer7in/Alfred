@@ -2,7 +2,7 @@
 
 **Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Jean-Michel Kevin**
+Submitted by: **Jean Michel Kevin**
 
 Time spent: **3** hours spent in total
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/33fTMeJ.gifv' title='Teach Me' width='' alt='Teach Me' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
